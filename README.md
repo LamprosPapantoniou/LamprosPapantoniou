@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LamprosPapantoniou
 - 👀 I’m interested in Software engineering and Software Development
-- 🌱 I’m currently learning Web Development programming languages (HTML / Javascript / CSS / PHP )
+- 🌱 I’m currently learning Web Development programming languages (React / Node.js / Express / Postgresql )
 - 📫 How to reach me lampispapantoniou@gmail.com
 
 <!---
